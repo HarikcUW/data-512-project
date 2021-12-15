@@ -5,7 +5,7 @@ Project goal:Analyze Covid confirmed cases and PCR Tests data and find relation 
 License and terms of use:
 All the data used for this analysis is publicly avialble and included their source details in data decsription below.
 
-Data sources:
+# Data sources:
 * Covid confirmed cases: Aggregate COVID-19 case counts and rates by date of report. Counts include both confirmed and probable cases, and a person is counted as a case only once.
   * Data Source: COVID-19 Aggregate Cases Current Daily County Health | PA Open Data Portal
   * License: Public Domain U.S. Government
@@ -35,3 +35,11 @@ Data sources:
   * Citation: Data can be cited as: CDC, COVID-19 Community Intervention & Critical Populations Task Force, Monitoring & Evaluation Team, Mitigation Policy Analysis Unit, the CDC, Center for State, Tribal, Local, and Territorial Support, Public Health Law Program, and Max Gakh, Assistant Professor, School of Public Health, University of Nevada, Las Vegas, “U.S. State and Territorial Orders Requiring Masks in Public,” (August 15, 2021).
 * Mask compliance survey - mask compliance survey
   * Citation: “The New York Times and Dynata”
+# Other refrences
+
+•	https://bousteadtravel.com/covid-19-screening/ 
+
+•	https://timesofindia.indiatimes.com/travel/travel-news/latvia-imposes-nearly-monthlong-lockdown-as-covid-19-cases-surge/as87252044.cms 
+
+•	https://www.bbc.com/news/world-52103747 
+
